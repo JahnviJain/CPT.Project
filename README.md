@@ -1,7 +1,5 @@
 # Virtual Assistant Project
 
-![Bot_Icon](image.png)
-
 Welcome to **Virtual Assistant**, your personal AI-powered assistant designed and created by Jahnvi Jain. This Python-based virtual assistant is your all-in-one solution for handling tasks, providing information, and making your life a little bit easier.
 
 ## Features
@@ -39,3 +37,5 @@ You can personalize your assistant by changing its name:
 This Virtual Assistant project was created by **Jahnvi Jain** as a Computer Programming and Technology project.
 
 Feel free to contribute, enhance, and use this virtual assistant to simplify your tasks and make your day a little brighter!
+
+[def]: image.png
